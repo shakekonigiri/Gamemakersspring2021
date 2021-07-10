@@ -41,7 +41,7 @@ public class PlatMovement : MonoBehaviour {
     }
     void UpdateTarget(){
         if (automatic){
-            if (Time.time - delayStart > delayTime) {
+            if (Time.deltaTime - delayStart > delayTime) {
                 NextPlatform();
             }
         }
