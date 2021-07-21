@@ -1,152 +1,913 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19041.1052; Version 2004; 64bit' Language: 'en' Physical Memory: 16332 MB
+OS: 'Windows 10 Home; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 16142 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-E:\Applications\Unity Hub\2020.3.0f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-E:/Desktop/Gamemakersspring2021-1/Opposum Game
+C:/Users/nasty/Documents/GitHub/Gamemakersspring2021/Opposum Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53023
-Successfully changed project path to: E:/Desktop/Gamemakersspring2021-1/Opposum Game
-E:/Desktop/Gamemakersspring2021-1/Opposum Game
+61140
+Successfully changed project path to: C:/Users/nasty/Documents/GitHub/Gamemakersspring2021/Opposum Game
+C:/Users/nasty/Documents/GitHub/Gamemakersspring2021/Opposum Game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 50.08 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 47.55 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.0f1 (c7b5465681fb)
-[Subsystems] Discovering subsystems at path E:/Applications/Unity Hub/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path E:/Desktop/Gamemakersspring2021-1/Opposum Game/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/nasty/Documents/GitHub/Gamemakersspring2021/Opposum Game/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f11)
     Vendor:   
-    VRAM:     4043 MB
-    Driver:   27.21.14.6677
+    VRAM:     5980 MB
+    Driver:   27.21.14.5687
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Initialize mono
-Mono path[0] = 'E:/Applications/Unity Hub/2020.3.0f1/Editor/Data/Managed'
-Mono path[1] = 'E:/Applications/Unity Hub/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'E:/Applications/Unity Hub/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56404
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56792
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: E:/Applications/Unity Hub/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002135 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.003272 seconds.
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 101.28 ms, found 0 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 51.30 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.011 seconds
+- Completed reload, in  1.219 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001554 seconds.
+Registered in 0.001514 seconds.
 Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 55.68 ms, found 0 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 46.50 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.310 seconds
+- Completed reload, in  0.988 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2472 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 115.1 MB.
-System memory in use after: 115.3 MB.
+Unloading 2473 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.8 MB.
+System memory in use after: 115.9 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2915.
-Total: 4.016300 ms (FindLiveObjects: 0.349800 ms CreateObjectMapping: 0.130800 ms MarkObjects: 3.438800 ms  DeleteObjects: 0.095100 ms)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2915.
+Total: 2.154000 ms (FindLiveObjects: 0.204500 ms CreateObjectMapping: 0.090700 ms MarkObjects: 1.772500 ms  DeleteObjects: 0.085400 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scripts/PlatMovement.cs
-  artifactKey: Guid(625c4a45a9fa81846b157974531f7a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PlatMovement.cs using Guid(625c4a45a9fa81846b157974531f7a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26ce55e6996e800c659b5058b508354d') in 0.109181 seconds
-  Import took 0.116850 seconds .
-
-========================================================================
-Received Prepare
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 1.91 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 61.7 MB.
-System memory in use after: 61.9 MB.
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2915.
-Total: 3.293100 ms (FindLiveObjects: 0.606700 ms CreateObjectMapping: 0.317400 ms MarkObjects: 2.346900 ms  DeleteObjects: 0.020500 ms)
+  path: Assets/Possum Idle.fbx
+  artifactKey: Guid(099fb2f3f8acfd74ea4dfb4a4bbdd981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Possum Idle.fbx using Guid(099fb2f3f8acfd74ea4dfb4a4bbdd981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b408c7a951668487197bf5a61ef1202') in 0.316990 seconds
+  Import took 0.321020 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.961452 seconds.
-  path: Assets/Scripts/PlatTrigger.cs
-  artifactKey: Guid(40021d371f550a1438a3666cab3b55d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PlatTrigger.cs using Guid(40021d371f550a1438a3666cab3b55d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '146a45b3688fcd25897ed2ea1c5a7468') in 0.009509 seconds
-  Import took 0.020302 seconds .
+  Time since last request: 0.000306 seconds.
+  path: Assets/Possum Push.fbx
+  artifactKey: Guid(904847ba25d67f344baa80cf6e9bffd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Possum Push.fbx using Guid(904847ba25d67f344baa80cf6e9bffd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b951cdae2c844a5ec03ecdcd1e384ebd') in 0.079813 seconds
+  Import took 0.083681 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001525 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.202 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2350 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 108.3 MB.
-System memory in use after: 108.5 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2918.
-Total: 5.527000 ms (FindLiveObjects: 0.391100 ms CreateObjectMapping: 0.130100 ms MarkObjects: 4.976100 ms  DeleteObjects: 0.027800 ms)
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Possum Jump.fbx
+  artifactKey: Guid(0f17ac44bc53d344396af951b3b201e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Possum Jump.fbx using Guid(0f17ac44bc53d344396af951b3b201e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05b5bb0142d5085e5b609a11d3a7fbc4') in 0.073828 seconds
+  Import took 0.077643 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001606 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.167 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2350 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 108.3 MB.
-System memory in use after: 108.5 MB.
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Possum Run.fbx
+  artifactKey: Guid(71ab70d4d7943734096c0050b1ed5eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Possum Run.fbx using Guid(71ab70d4d7943734096c0050b1ed5eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '887a19ef13d855d14ca51cc0a30e8df1') in 0.077873 seconds
+  Import took 0.081440 seconds .
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2921.
-Total: 2.180900 ms (FindLiveObjects: 0.208500 ms CreateObjectMapping: 0.094000 ms MarkObjects: 1.847800 ms  DeleteObjects: 0.029500 ms)
+========================================================================
+Received Import Request.
+  Time since last request: 9.884714 seconds.
+  path: Assets/Models
+  artifactKey: Guid(b9d5b192c11e24b4eb997b695a39f130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(b9d5b192c11e24b4eb997b695a39f130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a788d2d103b495ab57de453bdf69ed6') in 0.007338 seconds
+  Import took 0.011731 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000952 seconds.
+  path: Assets/Models
+  artifactKey: Guid(b9d5b192c11e24b4eb997b695a39f130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(b9d5b192c11e24b4eb997b695a39f130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a788d2d103b495ab57de453bdf69ed6') in 0.003555 seconds
+  Import took 0.008499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.240326 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(30f5f99a65176db45a2c52987eae3b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(30f5f99a65176db45a2c52987eae3b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db1feb38aa95718e7e848e65f07b0c94') in 0.006985 seconds
+  Import took 0.010679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001002 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(30f5f99a65176db45a2c52987eae3b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(30f5f99a65176db45a2c52987eae3b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db1feb38aa95718e7e848e65f07b0c94') in 0.002537 seconds
+  Import took 0.006206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.076300 seconds.
+  path: Assets/Materials/Crumbler.mat
+  artifactKey: Guid(af3745fa785e80345bbdfc120e20451e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Crumbler.mat using Guid(af3745fa785e80345bbdfc120e20451e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26122c3a0ae1d186ff7d7ad40e5d3d95') in 0.528251 seconds
+  Import took 0.531713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Materials/Water.mat
+  artifactKey: Guid(bb7af39113a091e49b967cbe335d2913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Water.mat using Guid(bb7af39113a091e49b967cbe335d2913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e848d43a1ab6c78ddda50759691bf5a9') in 0.014882 seconds
+  Import took 0.018561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Materials/Trigger.mat
+  artifactKey: Guid(3c36ae31e0c5fbe4bbbf311e19e793fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Trigger.mat using Guid(3c36ae31e0c5fbe4bbbf311e19e793fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d1474a621ba70b254b731f3bf0c5e79') in 0.020224 seconds
+  Import took 0.023518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Materials/Platform.mat
+  artifactKey: Guid(45d32431d3715aa4699e8085c406b5d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platform.mat using Guid(45d32431d3715aa4699e8085c406b5d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3690da0e4471a65a780813776b7cbc5') in 0.025105 seconds
+  Import took 0.030535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/Materials/Player Temp.mat
+  artifactKey: Guid(0d98dde6f5fe6e145b2d7546267e92c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Player Temp.mat using Guid(0d98dde6f5fe6e145b2d7546267e92c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cbc5faa1ccc6f9a1961125551fe771a') in 0.014999 seconds
+  Import took 0.021406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000664 seconds.
+  path: Assets/Materials/Ground.mat
+  artifactKey: Guid(e54c12d7ac618e844a884383cba53319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Ground.mat using Guid(e54c12d7ac618e844a884383cba53319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c29a55e70edd1dfe1c5b09ae6ad05fb') in 0.013723 seconds
+  Import took 0.021140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.867706 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(ffbb463c3cb609345add83947491fb52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(ffbb463c3cb609345add83947491fb52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5621a22842f3b924f4e427f219bd7875') in 0.007289 seconds
+  Import took 0.011266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.818339 seconds.
+  path: Assets/Scenes/Sewer Tutorial.unity
+  artifactKey: Guid(25e7fc837c0646e4e987edf497f5358f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sewer Tutorial.unity using Guid(25e7fc837c0646e4e987edf497f5358f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d6e228ef2b910e0cbf7d45741fa516c') in 0.008370 seconds
+  Import took 0.012875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.918824 seconds.
+  path: Assets/Sewer Environment Assests/button_01_low.fbx
+  artifactKey: Guid(f0f69954f910b1d4fa2a0890c3c96edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/button_01_low.fbx using Guid(f0f69954f910b1d4fa2a0890c3c96edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3048d8ff60d8cf326f5241726f532a21') in 0.049149 seconds
+  Import took 0.053403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.193443 seconds.
+  path: Assets/Sewer Environment Assests/barrel
+  artifactKey: Guid(b4448079dc8e2d54f9a94a2e29d1ef7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/barrel using Guid(b4448079dc8e2d54f9a94a2e29d1ef7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe6cba26a467f5b1871e664dbb78a029') in 0.010632 seconds
+  Import took 0.014906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069555 seconds.
+  path: Assets/Sewer Environment Assests/barrel/barrel_01_low.obj
+  artifactKey: Guid(929a1642007659e4aa4d5dd8da8292bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/barrel/barrel_01_low.obj using Guid(929a1642007659e4aa4d5dd8da8292bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '675e8e46e1b446bcd2b64dea3740a9c4') in 0.057240 seconds
+  Import took 0.061285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Sewer Environment Assests/barrel/barrel_01_low_initialShadingGroup_MetallicSmoothness.png
+  artifactKey: Guid(39073faec094e3344b492ff0748b35c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/barrel/barrel_01_low_initialShadingGroup_MetallicSmoothness.png using Guid(39073faec094e3344b492ff0748b35c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26231b0a1703233c2d46f31eba421c20') in 0.056468 seconds
+  Import took 0.059608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Sewer Environment Assests/barrel/barrel_01_low_initialShadingGroup_AlbedoTransparency.png
+  artifactKey: Guid(099d77740573b1b438ffe55b328a1993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/barrel/barrel_01_low_initialShadingGroup_AlbedoTransparency.png using Guid(099d77740573b1b438ffe55b328a1993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05d604799c63146517ed804c1c75db78') in 0.014299 seconds
+  Import took 0.017715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Sewer Environment Assests/barrel/barrel_01_low_initialShadingGroup_Normal.png
+  artifactKey: Guid(ea9bca494f8da634aa70db026c579daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/barrel/barrel_01_low_initialShadingGroup_Normal.png using Guid(ea9bca494f8da634aa70db026c579daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55ea2e8e5a198360ce9bb70c11f10224') in 0.018577 seconds
+  Import took 0.024043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.428428 seconds.
+  path: Assets/Sewer Environment Assests/button_01_low.fbx
+  artifactKey: Guid(f0f69954f910b1d4fa2a0890c3c96edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/button_01_low.fbx using Guid(f0f69954f910b1d4fa2a0890c3c96edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80e6287003a668ec1aa11ad641741243') in 0.040123 seconds
+  Import took 0.044581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.217953 seconds.
+  path: Assets/Sewer Environment Assests/button_01_low.fbx
+  artifactKey: Guid(f0f69954f910b1d4fa2a0890c3c96edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/button_01_low.fbx using Guid(f0f69954f910b1d4fa2a0890c3c96edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a1295f50e72ae64863c4c32e213c710') in 0.053883 seconds
+  Import took 0.058194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.981010 seconds.
+  path: Assets/Sewer Environment Assests/button_01_low.fbx
+  artifactKey: Guid(f0f69954f910b1d4fa2a0890c3c96edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/button_01_low.fbx using Guid(f0f69954f910b1d4fa2a0890c3c96edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a73f48aa60d9a15225ab84f0e9d70ce') in 0.036308 seconds
+  Import took 0.041568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.206729 seconds.
+  path: Assets/Sewer Environment Assests/button_01_low.fbx
+  artifactKey: Guid(f0f69954f910b1d4fa2a0890c3c96edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/button_01_low.fbx using Guid(f0f69954f910b1d4fa2a0890c3c96edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f3cd04d87756f32a2f7cea0a2da40a5') in 0.040445 seconds
+  Import took 0.044903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.808382 seconds.
+  path: Assets/Sewer Environment Assests/button_01_low_lambert1_AlbedoTransparency.png
+  artifactKey: Guid(4e841cc11a3047d4d910c5fa87f2585f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/button_01_low_lambert1_AlbedoTransparency.png using Guid(4e841cc11a3047d4d910c5fa87f2585f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f895f1eee42116a4269f683577af9dd') in 0.016963 seconds
+  Import took 0.020990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Sewer Environment Assests/button_01_low_lambert1_AO.png
+  artifactKey: Guid(d0351f6d8749294439d85498afeddb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/button_01_low_lambert1_AO.png using Guid(d0351f6d8749294439d85498afeddb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83fc72c4e67c18af2ee1b8e327e06ed5') in 0.012693 seconds
+  Import took 0.015881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Sewer Environment Assests/button_01_low_lambert1_Normal.png
+  artifactKey: Guid(baa032165dec0c344a488e9adcf2ae4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/button_01_low_lambert1_Normal.png using Guid(baa032165dec0c344a488e9adcf2ae4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9b12d61a2a7da0e32fe6e0b2940e453') in 0.014232 seconds
+  Import took 0.017975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Sewer Environment Assests/button_01_low_lambert1_SpecularSmoothness.png
+  artifactKey: Guid(877eb18c94ee594409c47fcf73719de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/button_01_low_lambert1_SpecularSmoothness.png using Guid(877eb18c94ee594409c47fcf73719de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b943a9738aec7d1eed666075750ed848') in 0.015937 seconds
+  Import took 0.019132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.885879 seconds.
+  path: Assets/Sewer Environment Assests/button_01_low_lambert1_AlbedoTransparency 1.png
+  artifactKey: Guid(108e554b790a74247be8f73ebf8e1e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/button_01_low_lambert1_AlbedoTransparency 1.png using Guid(108e554b790a74247be8f73ebf8e1e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2d61fa9906f658b1e9c75df8867ae63') in 0.013769 seconds
+  Import took 0.017480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.958106 seconds.
+  path: Assets/Sewer Environment Assests/Yellow Button.mat
+  artifactKey: Guid(c6f5d1db3fd45cd42bb1d3212855896d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/Yellow Button.mat using Guid(c6f5d1db3fd45cd42bb1d3212855896d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3175ca3571abf8e65bdc829703213aca') in 0.019444 seconds
+  Import took 0.023296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.250454 seconds.
+  path: Assets/Sewer Environment Assests/Red Button.mat
+  artifactKey: Guid(dd2f5fa4d553e8e40b8a6ff1654da4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/Red Button.mat using Guid(dd2f5fa4d553e8e40b8a6ff1654da4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a52e647d302696d5cb71d81043e400') in 0.017218 seconds
+  Import took 0.021326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.586671 seconds.
+  path: Assets/Sewer Environment Assests/button_01_low_lambert1_Normal.png
+  artifactKey: Guid(baa032165dec0c344a488e9adcf2ae4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/button_01_low_lambert1_Normal.png using Guid(baa032165dec0c344a488e9adcf2ae4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '603abc33bc159eae399e32cc8ae1a446') in 0.017275 seconds
+  Import took 0.020980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.335165 seconds.
+  path: Assets/Sewer Environment Assests/Floor Button
+  artifactKey: Guid(5a1f4681bbf31d0419e018fb8fc02c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/Floor Button using Guid(5a1f4681bbf31d0419e018fb8fc02c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e5b211f99d4b3975d6cf3ad99e931c8') in 0.006597 seconds
+  Import took 0.010146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.613693 seconds.
+  path: Assets/Sewer Environment Assests/Floor Button/Red Button.mat
+  artifactKey: Guid(dd2f5fa4d553e8e40b8a6ff1654da4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/Floor Button/Red Button.mat using Guid(dd2f5fa4d553e8e40b8a6ff1654da4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0e316ba5a862905f3f3a497f6a64c16') in 0.054903 seconds
+  Import took 0.060399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Sewer Environment Assests/Floor Button/Yellow Button.mat
+  artifactKey: Guid(c6f5d1db3fd45cd42bb1d3212855896d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/Floor Button/Yellow Button.mat using Guid(c6f5d1db3fd45cd42bb1d3212855896d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97fd7d413d4664bc161e97596ca71b1e') in 0.025002 seconds
+  Import took 0.030884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000670 seconds.
+  path: Assets/Sewer Environment Assests/Floor Button/Yellow Button.mat
+  artifactKey: Guid(c6f5d1db3fd45cd42bb1d3212855896d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/Floor Button/Yellow Button.mat using Guid(c6f5d1db3fd45cd42bb1d3212855896d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97fd7d413d4664bc161e97596ca71b1e') in 0.025597 seconds
+  Import took 0.030852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 178.714231 seconds.
+  path: Assets/Sewer Environment Assests/Floor Button/button_01_low_lambert1_MetallicSmoothness.png
+  artifactKey: Guid(9f4b1ed91e0af954092a48075e709d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/Floor Button/button_01_low_lambert1_MetallicSmoothness.png using Guid(9f4b1ed91e0af954092a48075e709d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5e0375db36dffa18adf6639f4f94505') in 0.015760 seconds
+  Import took 0.020370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.202901 seconds.
+  path: Assets/Sewer Environment Assests/lantern_01_low.fbx
+  artifactKey: Guid(43f0ca44067558c479e157d16d3ccf3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern_01_low.fbx using Guid(43f0ca44067558c479e157d16d3ccf3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fbbf46c58e610308d413d386ea9219a') in 0.037759 seconds
+  Import took 0.042166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Sewer Environment Assests/lantern_01_low_lambert1_AO.png
+  artifactKey: Guid(bc6e6b3bbe0f7f1479c8bfaf131c22bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern_01_low_lambert1_AO.png using Guid(bc6e6b3bbe0f7f1479c8bfaf131c22bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b5f26641f2457907ede6c5900899aa6') in 0.024694 seconds
+  Import took 0.028686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Sewer Environment Assests/lantern_01_low_lambert1_Normal.png
+  artifactKey: Guid(87465358e7583d14ba78dac52208b39e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern_01_low_lambert1_Normal.png using Guid(87465358e7583d14ba78dac52208b39e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2da7a1b219563ef6392332cbda653633') in 0.018271 seconds
+  Import took 0.021594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Sewer Environment Assests/lantern_01_low_lambert1_SpecularSmoothness.png
+  artifactKey: Guid(c05c5ce2ba2c7b54895147434190f5a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern_01_low_lambert1_SpecularSmoothness.png using Guid(c05c5ce2ba2c7b54895147434190f5a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0b04b0d47e336eb27dcfb04c00a72c0') in 0.050877 seconds
+  Import took 0.055398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Sewer Environment Assests/lantern_01_low_lambert1_AlbedoTransparency.png
+  artifactKey: Guid(95db75882bbf8f34e88b0c9b3d61267d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern_01_low_lambert1_AlbedoTransparency.png using Guid(95db75882bbf8f34e88b0c9b3d61267d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b751a36beb4108aa7adb1daee5ade80') in 0.032723 seconds
+  Import took 0.037920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Sewer Environment Assests/lantern_01_low_lambert1_Emission.png
+  artifactKey: Guid(1f7ae10540649bb48b6be40a75bf5214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern_01_low_lambert1_Emission.png using Guid(1f7ae10540649bb48b6be40a75bf5214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea37cd04ed09556bc7706359de423e1e') in 0.028989 seconds
+  Import took 0.034743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.508437 seconds.
+  path: Assets/Sewer Environment Assests/lanter.mat
+  artifactKey: Guid(1faae9adf40b3d64d98d3dc6aee370fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lanter.mat using Guid(1faae9adf40b3d64d98d3dc6aee370fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed041e7fb6e0cc4eb55c076d6b6d0cea') in 0.014501 seconds
+  Import took 0.018065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.128679 seconds.
+  path: Assets/Sewer Environment Assests/lantern_01_low_lambert1_Normal.png
+  artifactKey: Guid(87465358e7583d14ba78dac52208b39e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern_01_low_lambert1_Normal.png using Guid(87465358e7583d14ba78dac52208b39e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '771d3cd4aefd9a08e2bbe4b4371216db') in 0.017036 seconds
+  Import took 0.022722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.041071 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat
+  artifactKey: Guid(749b9069dc4742c5bfa5c74644049926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat using Guid(749b9069dc4742c5bfa5c74644049926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '395cc7b442a8a66bfc4f3a99f1d49687') in 0.081082 seconds
+  Import took 0.088444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+  artifactKey: Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset using Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d74a74d901aef5dc47c9baa34b7c909') in 0.036335 seconds
+  Import took 0.042131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat
+  artifactKey: Guid(749b9069dc4742c5bfa5c74644049926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat using Guid(749b9069dc4742c5bfa5c74644049926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '395cc7b442a8a66bfc4f3a99f1d49687') in 0.009205 seconds
+  Import took 0.013533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat
+  artifactKey: Guid(f629c6e43dba4bf38cb74d8860150664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat using Guid(f629c6e43dba4bf38cb74d8860150664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f81fd9c3712e51ab8d3ab4b86a955f') in 0.059250 seconds
+  Import took 0.063545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat
+  artifactKey: Guid(6522f30e342599e4e9dd4cc2cc03c830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat using Guid(6522f30e342599e4e9dd4cc2cc03c830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '202a64e29e6048d0859dec5bb35b3309') in 0.113540 seconds
+  Import took 0.117377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat
+  artifactKey: Guid(f2dcf029949142e28b974630369c8b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat using Guid(f2dcf029949142e28b974630369c8b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7b6e81f5126e6dd48189c654687e6f5') in 0.011869 seconds
+  Import took 0.015947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat
+  artifactKey: Guid(d75b8f41e959450c84ac6e967084d3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat using Guid(d75b8f41e959450c84ac6e967084d3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8a879dd62881013573bacfc1b7e2d6e') in 0.082373 seconds
+  Import took 0.086093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat
+  artifactKey: Guid(a00013af81304728b2be1f4309ee2433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat using Guid(a00013af81304728b2be1f4309ee2433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e78ad529071bc6d8a980cc1fdd4c17b1') in 0.011226 seconds
+  Import took 0.014880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat
+  artifactKey: Guid(f4e195ac1e204eff960149d1cb34e18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat using Guid(f4e195ac1e204eff960149d1cb34e18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2510d34a435898675f08b851227e327') in 0.018166 seconds
+  Import took 0.024447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.554066 seconds.
+  path: Assets/Sewer Environment Assests/lantern_01_low.fbx
+  artifactKey: Guid(43f0ca44067558c479e157d16d3ccf3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern_01_low.fbx using Guid(43f0ca44067558c479e157d16d3ccf3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '614faa3e841999adb5390d349ac3da28') in 0.017893 seconds
+  Import took 0.021837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.629016 seconds.
+  path: Assets/Sewer Environment Assests/Floors
+  artifactKey: Guid(25e7a87df788c844592be5f871de2f12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/Floors using Guid(25e7a87df788c844592be5f871de2f12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a47845d47a95fd7ab9492f08a6917ff9') in 0.010257 seconds
+  Import took 0.017405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.325343 seconds.
+  path: Assets/Sewer Environment Assests/lantern_01_low.fbx
+  artifactKey: Guid(43f0ca44067558c479e157d16d3ccf3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern_01_low.fbx using Guid(43f0ca44067558c479e157d16d3ccf3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91c411cc78240a34b27b1ba97e2a1c53') in 0.025452 seconds
+  Import took 0.032625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.593486 seconds.
+  path: Assets/Sewer Environment Assests/lantern.mat
+  artifactKey: Guid(1faae9adf40b3d64d98d3dc6aee370fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern.mat using Guid(1faae9adf40b3d64d98d3dc6aee370fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac1eaad36c4a5f95bfdfd2b29fe017b6') in 0.042864 seconds
+  Import took 0.050963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 183.894614 seconds.
+  path: Assets/Sewer Environment Assests/lantern_01_low_lambert1_MetallicSmoothness.png
+  artifactKey: Guid(d8d104b0366f8a74ea5459ac858f8af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern_01_low_lambert1_MetallicSmoothness.png using Guid(d8d104b0366f8a74ea5459ac858f8af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ed0304a3a213741e1967a6b6747c8b3') in 0.021486 seconds
+  Import took 0.027505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 144.409610 seconds.
+  path: Assets/Sewer Environment Assests/lantern
+  artifactKey: Guid(daa2171ae082f9e449e59ec5ad1502ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern using Guid(daa2171ae082f9e449e59ec5ad1502ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c9f9ca6e8a76d87353d52a05b12ee2a') in 0.002113 seconds
+  Import took 0.005544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.052523 seconds.
+  path: Assets/Sewer Environment Assests/lever_01_low.fbx
+  artifactKey: Guid(bebcbeefedf5af940be10e61b62ded5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lever_01_low.fbx using Guid(bebcbeefedf5af940be10e61b62ded5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ef53b9dacf1d69b946a8ff8af04a3e4') in 0.065638 seconds
+  Import took 0.070275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003878 seconds.
+  path: Assets/Sewer Environment Assests/lever_01_low.fbx
+  artifactKey: Guid(bebcbeefedf5af940be10e61b62ded5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lever_01_low.fbx using Guid(bebcbeefedf5af940be10e61b62ded5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ef53b9dacf1d69b946a8ff8af04a3e4') in 0.092237 seconds
+  Import took 0.096200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.484915 seconds.
+  path: Assets/Sewer Environment Assests/lever_01_low_lambert1_AlbedoTransparency.png
+  artifactKey: Guid(7ce27ff55eb9d104b9fffe3cbf0fb677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lever_01_low_lambert1_AlbedoTransparency.png using Guid(7ce27ff55eb9d104b9fffe3cbf0fb677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e2d40a165ce15019467ba855b2c02ca') in 0.014857 seconds
+  Import took 0.021125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Sewer Environment Assests/lever_01_low_lambert1_MetallicSmoothness.png
+  artifactKey: Guid(acd0dc8c1d3d72e418ce8e96bbd767f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lever_01_low_lambert1_MetallicSmoothness.png using Guid(acd0dc8c1d3d72e418ce8e96bbd767f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2462886a6976fa22183328e2f51653c2') in 0.030582 seconds
+  Import took 0.034844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Sewer Environment Assests/lever_01_low_lambert1_AO.png
+  artifactKey: Guid(87144596b562b174994c1839acbc16dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lever_01_low_lambert1_AO.png using Guid(87144596b562b174994c1839acbc16dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc298d4b8a2460e8a315bfadc4c76c55') in 0.015570 seconds
+  Import took 0.021678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Sewer Environment Assests/lever_01_low_lambert1_Normal.png
+  artifactKey: Guid(6dc98a1df0e9add42b6d0b02fefd6356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lever_01_low_lambert1_Normal.png using Guid(6dc98a1df0e9add42b6d0b02fefd6356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a334a945edc0b5ea0b9721e93383295a') in 0.032439 seconds
+  Import took 0.037672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006040 seconds.
+  path: Assets/Sewer Environment Assests/lever_01_low_lambert1_Normal.png
+  artifactKey: Guid(6dc98a1df0e9add42b6d0b02fefd6356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lever_01_low_lambert1_Normal.png using Guid(6dc98a1df0e9add42b6d0b02fefd6356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a334a945edc0b5ea0b9721e93383295a') in 0.030010 seconds
+  Import took 0.034045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.160555 seconds.
+  path: Assets/Sewer Environment Assests/lever_01_low_lambert1_AlbedoTransparency 1.png
+  artifactKey: Guid(44e75e5e0fc3e42429d31146ee80fb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lever_01_low_lambert1_AlbedoTransparency 1.png using Guid(44e75e5e0fc3e42429d31146ee80fb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb9c6b5264406724532007bd518ecc5e') in 0.015167 seconds
+  Import took 0.020141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.170861 seconds.
+  path: Assets/Sewer Environment Assests/lantern/lantern_01_low_lambert1_AlbedoTransparency 1.png
+  artifactKey: Guid(0d3cb812f0cdf804bbd0e6f18dd2cf9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern/lantern_01_low_lambert1_AlbedoTransparency 1.png using Guid(0d3cb812f0cdf804bbd0e6f18dd2cf9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4ce73219bb4268e9f9998a839c6d30b') in 0.016519 seconds
+  Import took 0.020862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Sewer Environment Assests/lantern/lantern_01_low_lambert1_Emission 1.png
+  artifactKey: Guid(9faba9d23bf822c4f87718bdf8d0483c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern/lantern_01_low_lambert1_Emission 1.png using Guid(9faba9d23bf822c4f87718bdf8d0483c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a823cc92f0bd02bb70f9c745ecd9959') in 0.017908 seconds
+  Import took 0.021825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Sewer Environment Assests/lantern/lantern_01_low_lambert1_AO 1.png
+  artifactKey: Guid(963e62aed201dd942b4ad51ab2ada0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern/lantern_01_low_lambert1_AO 1.png using Guid(963e62aed201dd942b4ad51ab2ada0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83155d2699fe34c32a104a7ce18f0cba') in 0.021164 seconds
+  Import took 0.024999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Sewer Environment Assests/lantern/lantern_01_low_lambert1_MetallicSmoothness 1.png
+  artifactKey: Guid(84ec77257e8983543bc75ceeae3303c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern/lantern_01_low_lambert1_MetallicSmoothness 1.png using Guid(84ec77257e8983543bc75ceeae3303c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e4574e81594d685548873cc91600b2f') in 0.038455 seconds
+  Import took 0.044236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Sewer Environment Assests/lantern/lantern_01_low_lambert1_Normal 1.png
+  artifactKey: Guid(f33cbfcc67a1d934695d0b490a2ee68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern/lantern_01_low_lambert1_Normal 1.png using Guid(f33cbfcc67a1d934695d0b490a2ee68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6f5e042be84e4aeac6bb2ee432dd09f') in 0.029352 seconds
+  Import took 0.035432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.506739 seconds.
+  path: Assets/Sewer Environment Assests/lantern/lantern_01_low_lambert1_Normal 1.png
+  artifactKey: Guid(f33cbfcc67a1d934695d0b490a2ee68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern/lantern_01_low_lambert1_Normal 1.png using Guid(f33cbfcc67a1d934695d0b490a2ee68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74d443bb2eeb343e5feb0f7655a59201') in 0.013126 seconds
+  Import took 0.017019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.307705 seconds.
+  path: Assets/Sewer Environment Assests/lantern/lantern.mat
+  artifactKey: Guid(1faae9adf40b3d64d98d3dc6aee370fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lantern/lantern.mat using Guid(1faae9adf40b3d64d98d3dc6aee370fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '759e91e9f58531dcd4acfd0e807115b9') in 0.048308 seconds
+  Import took 0.053578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.459758 seconds.
+  path: Assets/Sewer Environment Assests/Lever Red.mat
+  artifactKey: Guid(12a982db5b195024da92065d4cd93d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/Lever Red.mat using Guid(12a982db5b195024da92065d4cd93d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7beffa75914228bf24e7a86ca5a6feb5') in 0.020922 seconds
+  Import took 0.028251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.295814 seconds.
+  path: Assets/Sewer Environment Assests/Lever Yellow.mat
+  artifactKey: Guid(bda3961615876ae4cb29aa05a7a37e65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/Lever Yellow.mat using Guid(bda3961615876ae4cb29aa05a7a37e65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2b5376994b6221d1085d93b1c0cface') in 0.014114 seconds
+  Import took 0.018904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.543431 seconds.
+  path: Assets/Sewer Environment Assests/lever_01_low_lambert1_Normal.png
+  artifactKey: Guid(6dc98a1df0e9add42b6d0b02fefd6356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lever_01_low_lambert1_Normal.png using Guid(6dc98a1df0e9add42b6d0b02fefd6356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e8b9b1f3bd871c17c1daa585a1d886b') in 0.014961 seconds
+  Import took 0.018807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.668119 seconds.
+  path: Assets/Sewer Environment Assests/lever_01_low.fbx
+  artifactKey: Guid(bebcbeefedf5af940be10e61b62ded5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lever_01_low.fbx using Guid(bebcbeefedf5af940be10e61b62ded5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b827dce34f7be3903b9cab20044749b9') in 0.036414 seconds
+  Import took 0.041222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.776921 seconds.
+  path: Assets/Sewer Environment Assests/Lever Red.mat
+  artifactKey: Guid(12a982db5b195024da92065d4cd93d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/Lever Red.mat using Guid(12a982db5b195024da92065d4cd93d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '089f530437f210ad0921b1363485898e') in 0.028935 seconds
+  Import took 0.033321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Sewer Environment Assests/Lever Yellow.mat
+  artifactKey: Guid(bda3961615876ae4cb29aa05a7a37e65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/Lever Yellow.mat using Guid(bda3961615876ae4cb29aa05a7a37e65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f9115bdf927c2bdab0446932b3a9f43') in 0.088533 seconds
+  Import took 0.092896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 175.602061 seconds.
+  path: Assets/Sewer Environment Assests/lever_01_low_lambert1_AlbedoTransparency 2.png
+  artifactKey: Guid(6e9628a20e5a34c4ca6b2493bca5cedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/lever_01_low_lambert1_AlbedoTransparency 2.png using Guid(6e9628a20e5a34c4ca6b2493bca5cedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce234967324451cd253a62117a29ec81') in 0.016643 seconds
+  Import took 0.021962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.067733 seconds.
+  path: Assets/Sewer Environment Assests/Lever
+  artifactKey: Guid(fc394338d1eb7684b8c38fbd8548bb9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/Lever using Guid(fc394338d1eb7684b8c38fbd8548bb9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90480ab6388f2c0fb45186ad7619d22b') in 0.009385 seconds
+  Import took 0.013371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.708957 seconds.
+  path: Assets/Sewer Environment Assests/torch_01_low.fbx
+  artifactKey: Guid(02d6a3d12584b87489b43975100a1b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/torch_01_low.fbx using Guid(02d6a3d12584b87489b43975100a1b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a6abb115f67762576483266e23d91f0') in 0.081561 seconds
+  Import took 0.088162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.540740 seconds.
+  path: Assets/Sewer Environment Assests/torch_01_low_lambert1_AlbedoTransparency 1.png
+  artifactKey: Guid(f75e6e65f4834bd4cbd1ed5fe35045ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/torch_01_low_lambert1_AlbedoTransparency 1.png using Guid(f75e6e65f4834bd4cbd1ed5fe35045ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3017c484e5897f72dc9bbe913ae1da31') in 0.016773 seconds
+  Import took 0.020369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Sewer Environment Assests/torch_01_low_lambert1_MetallicSmoothness.png
+  artifactKey: Guid(ff15835a0f331924f995a476179937cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/torch_01_low_lambert1_MetallicSmoothness.png using Guid(ff15835a0f331924f995a476179937cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '956f5e960c23a710602c254f484493d0') in 0.035048 seconds
+  Import took 0.038894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Sewer Environment Assests/torch_01_low_lambert1_Emission.png
+  artifactKey: Guid(dbf2c9d2eb2ec0944bfd1c69f400f515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/torch_01_low_lambert1_Emission.png using Guid(dbf2c9d2eb2ec0944bfd1c69f400f515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '519140d4f0a7612dcfa4af776de22bd6') in 0.015188 seconds
+  Import took 0.018758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000539 seconds.
+  path: Assets/Sewer Environment Assests/torch_01_low_lambert1_AO.png
+  artifactKey: Guid(449a49a5467bb534d880c499bb8ae71f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/torch_01_low_lambert1_AO.png using Guid(449a49a5467bb534d880c499bb8ae71f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd121ab68220eabeda3ab673db7130e8f') in 0.028571 seconds
+  Import took 0.032620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Sewer Environment Assests/torch_01_low_lambert1_Normal 1.png
+  artifactKey: Guid(fb12a2a6ef75dc54c94b4850cf4d9bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/torch_01_low_lambert1_Normal 1.png using Guid(fb12a2a6ef75dc54c94b4850cf4d9bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9204c3e9c8386ce7f9f6cf93d4a251a') in 0.040413 seconds
+  Import took 0.045046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Sewer Environment Assests/torch_01_low_lambert1_AlbedoTransparency.png
+  artifactKey: Guid(f660258e1bf0d4244b587e376014f6a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/torch_01_low_lambert1_AlbedoTransparency.png using Guid(f660258e1bf0d4244b587e376014f6a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a524df3975ccc4081318a4395344e14') in 0.024049 seconds
+  Import took 0.033966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Sewer Environment Assests/torch_01_low_lambert1_Emission 1.png
+  artifactKey: Guid(7dd6fbf1720c9d0479fc312ebb96e208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/torch_01_low_lambert1_Emission 1.png using Guid(7dd6fbf1720c9d0479fc312ebb96e208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b427828b9737ee48c0e45e1a80a236c6') in 0.021969 seconds
+  Import took 0.026400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Sewer Environment Assests/torch_01_low_lambert1_AO 1.png
+  artifactKey: Guid(3c023a900a73a784bbe071ffb6697a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/torch_01_low_lambert1_AO 1.png using Guid(3c023a900a73a784bbe071ffb6697a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93317c9a5f26b7d2e5646b72f3c51782') in 0.013849 seconds
+  Import took 0.018919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Sewer Environment Assests/torch_01_low_lambert1_MetallicSmoothness 1.png
+  artifactKey: Guid(24676290293592940901fdd8764b5758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/torch_01_low_lambert1_MetallicSmoothness 1.png using Guid(24676290293592940901fdd8764b5758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea3c42a34a4d6172748e8dd23196e885') in 0.039467 seconds
+  Import took 0.043551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Sewer Environment Assests/torch_01_low_lambert1_Normal.png
+  artifactKey: Guid(1b7dd9beb69f0ab4e85ec0b06536853a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/torch_01_low_lambert1_Normal.png using Guid(1b7dd9beb69f0ab4e85ec0b06536853a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3fa80f6ee1a2c9123b5200cea3ebded') in 0.023163 seconds
+  Import took 0.027131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.430859 seconds.
+  path: Assets/Sewer Environment Assests/torch.mat
+  artifactKey: Guid(aa0ad2aa45f3c074ea5e7edf1644e5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/torch.mat using Guid(aa0ad2aa45f3c074ea5e7edf1644e5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77a93513916d7d3f38131247e84e3a63') in 0.017201 seconds
+  Import took 0.020791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.115460 seconds.
+  path: Assets/Sewer Environment Assests/torch_01_low_lambert1_Normal.png
+  artifactKey: Guid(1b7dd9beb69f0ab4e85ec0b06536853a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/torch_01_low_lambert1_Normal.png using Guid(1b7dd9beb69f0ab4e85ec0b06536853a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e8bc7e3ac779fbd71ba7f81d1441d3a') in 0.016593 seconds
+  Import took 0.021695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.653897 seconds.
+  path: Assets/Sewer Environment Assests/torch_01_low.fbx
+  artifactKey: Guid(02d6a3d12584b87489b43975100a1b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/torch_01_low.fbx using Guid(02d6a3d12584b87489b43975100a1b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e1a1dd6ae0eeacd347fa77a0208fe6c') in 0.039704 seconds
+  Import took 0.043343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.853001 seconds.
+  path: Assets/Sewer Environment Assests/torch.mat
+  artifactKey: Guid(aa0ad2aa45f3c074ea5e7edf1644e5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/torch.mat using Guid(aa0ad2aa45f3c074ea5e7edf1644e5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6ffa3154848ec5465061fb952205a6d') in 0.035706 seconds
+  Import took 0.042529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.977564 seconds.
+  path: Assets/Sewer Environment Assests/torch
+  artifactKey: Guid(33dee98e81e5edd4a9e1f0db82fc38ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/torch using Guid(33dee98e81e5edd4a9e1f0db82fc38ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8635ebe90e96dcfb7b9c0a1e98a086bf') in 0.002445 seconds
+  Import took 0.006665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.142378 seconds.
+  path: Assets/Sewer Environment Assests/Floor Button/Red Button.mat
+  artifactKey: Guid(dd2f5fa4d553e8e40b8a6ff1654da4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/Floor Button/Red Button.mat using Guid(dd2f5fa4d553e8e40b8a6ff1654da4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ef16e993ac27455031fa69370f2d5b') in 0.035821 seconds
+  Import took 0.041112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Sewer Environment Assests/Floor Button/Yellow Button.mat
+  artifactKey: Guid(c6f5d1db3fd45cd42bb1d3212855896d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sewer Environment Assests/Floor Button/Yellow Button.mat using Guid(c6f5d1db3fd45cd42bb1d3212855896d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edc3853824048a2d8caa1fd101a12877') in 0.058981 seconds
+  Import took 0.064741 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
